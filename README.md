@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cn-jackie
 - 👀 I’m interested in studying currently and my girlfriend forever.
-- 🌱 I’m currently learning Djungo.
+- 🌱 I’m currently learning Django.
 - 📫 You can reach me through cn-jackie@outlook.com
 
 
