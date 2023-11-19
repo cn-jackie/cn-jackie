@@ -2,6 +2,7 @@
 - 👀 I’m interested in studying currently and my girlfriend forever.
 - 🌱 I’m currently learning Django.
 - 📫 You can reach me through cn-jackie@outlook.com
+- 🔗 Link to my personal website for more info https://jackie4zjq.github.io/
 
 
 <!---
